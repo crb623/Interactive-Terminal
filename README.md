@@ -26,7 +26,7 @@ To exit the terminal, simply type `exit`.
 
 ## Authors
 
-- (Christina Borao)[https://github.com/crb623]
+- [Christina Borao](https://github.com/crb623)
 
 ## Acknowledgments
 
